@@ -1,7 +1,7 @@
 📞 My Contact Management System:
 This is a Mini Project for my second year, built using the C programming language. It is a simple tool that runs in the console (like Command Prompt or Terminal) and helps manage a list of contacts.
-
 All the contact information is saved permanently in a text file named contact_manager.txt.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ✨ What It Can Do (Features)
 ----------------------------------------------------------------------------------------------------------------------------------------
